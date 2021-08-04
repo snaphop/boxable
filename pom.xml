@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.dhorions</groupId>
   <artifactId>boxable</artifactId>
-  <version>1.7-snaphop-SNAPSHOT</version>
+  <version>1.6.1-snaphop</version>
   <packaging>jar</packaging>
   <name>Boxable, a high-level API to creates table on top of Apache Pdfbox</name>
   <description>Easily creates tables in pdf.</description>
